@@ -2,10 +2,6 @@
 
 A team task management web app built with Django REST Framework and React. Supports role-based access control (Admin/Member), project management, task tracking with priorities and due dates, and a real-time dashboard.
 
-## Live Demo
-
-**Live URL:** _[will be updated after deployment]_
-
 ## Features
 
 - **Authentication** — Signup/Login with JWT tokens, auto token refresh
